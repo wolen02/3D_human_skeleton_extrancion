@@ -2,7 +2,7 @@
 
 
 # 실제 영상
-https://github.com/user-attachments/assets/ceefcded-72c3-4225-b594-781f31c16e4c
+<video src="https://github.com/user-attachments/assets/caff0dd7-4dfd-4930-8b76-5fa6b36970a0" controls width="100%"></video>
 
 
 
