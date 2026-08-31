@@ -2,7 +2,10 @@
 
 
 # 실제 영상
-https://github.com/user-attachments/assets/619b5805-de42-4421-8ee7-8032001ffca9
+
+https://github.com/user-attachments/assets/caff0dd7-4dfd-4930-8b76-5fa6b36970a0
+
+
 
 # 관절 추출 영상
 https://github.com/user-attachments/assets/e72dfc40-93f0-4966-90ae-cbb6ce45c49c
