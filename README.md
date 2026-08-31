@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/e72dfc40-93f0-4966-90ae-cbb6ce45c49c
+
+https://github.com/user-attachments/assets/7129dd59-7061-42f8-a94b-340e2f71e2bf
+
+
+
 # 3D_human_skeleton_extrancion
 
 # climbing_dataset_extraction
