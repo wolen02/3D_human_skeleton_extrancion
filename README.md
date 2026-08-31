@@ -1,12 +1,10 @@
+# 3D_human_skeleton_extrancion
 
 
 https://github.com/user-attachments/assets/e72dfc40-93f0-4966-90ae-cbb6ce45c49c
 
 https://github.com/user-attachments/assets/7129dd59-7061-42f8-a94b-340e2f71e2bf
 
-
-
-# 3D_human_skeleton_extrancion
 
 # climbing_dataset_extraction
 - 학습 데이터 수집, 데이터 전처리, 모델 설계 및 제작, 학습, 데이터 시각화, 성능 평가 코드
