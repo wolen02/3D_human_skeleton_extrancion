@@ -3,7 +3,10 @@
 
 https://github.com/user-attachments/assets/e72dfc40-93f0-4966-90ae-cbb6ce45c49c
 
-https://github.com/user-attachments/assets/7129dd59-7061-42f8-a94b-340e2f71e2bf
+
+https://github.com/user-attachments/assets/619b5805-de42-4421-8ee7-8032001ffca9
+
+
 
 
 # climbing_dataset_extraction
